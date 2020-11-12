@@ -1,1 +1,1 @@
-# Circuito-sequencial---projeto
+# Circuito-sequencial-projeto
